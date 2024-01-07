@@ -9,7 +9,7 @@ const Hero = () => {
                 <div className='w-1/2'>
 
                     <div className='max-w-[600px]'>
-                        <h1 className='text-5xl font-bold text-blue-950'>Starting your day has never felt better</h1>
+                        <h1 className='text-5xl font-bold text-blue-950'>Hiii HEllo Starting your day has never felt better</h1>
                         <p className=' mt-5 font-bold text-blue-950'>Gut-healthy prebiotics for all day no cash energy</p>
                         <Link href='/shop' className='mt-5 w-auto px-5 bg-orange-600 p-2 rounded-xl border-2 border-black text-white font-bold'
                             style={{
